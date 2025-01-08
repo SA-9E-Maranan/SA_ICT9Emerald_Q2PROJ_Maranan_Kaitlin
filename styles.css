@@ -1,0 +1,176 @@
+body {
+	background-image: url("bg.jpg");
+    background-position-y: 55px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#navbar {
+	background-image: url(navbar.jpg);
+	background-position-y: -200px;
+	font-family: Syne;
+}
+
+.header {
+	text-align: center;
+	margin-top: -30px;
+}
+
+.content {
+	padding: 20px;
+    border-radius: 5px;
+    background-color: #faf6e3;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    opacity: 0.9;
+}
+.video {
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+	
+}
+.footer{
+	text-align: center;
+	padding: 20px;
+    border-radius: 5px;
+}
+
+#chinese {
+	width: 1200px;
+	height: 520px;
+}
+
+.carousel {
+	margin-top: -50px;
+	margin-bottom: -50px;
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+.carousel-caption {
+	border-radius: 5px;
+	text-shadow: black 2px 2px 2px;
+	font-family: Syne;
+}
+
+#dishes {
+	text-align: center;
+	margin-left: 50px;
+}
+
+table, th, td {
+	width: 30%;
+	max-width:100%
+}
+
+table {
+	background-color:#dec378;
+	border-radius: 10px;
+}
+
+.main {
+	background-color: #f2dc9d;
+	opacity: 0.9;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.sauce {
+	background-color: #f2dc9d;
+	opacity: 0.9;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.garnish {
+	background-color: #f2dc9d;
+	opacity: 0.9;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.steps {
+	background-color: #f2dc9d;
+	opacity: 0.9;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.toppings {
+	background-color: #f2dc9d;
+	opacity: 0.9;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.filling {
+	background-color: #f2dc9d;
+	opacity: 0.9;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.wrappers {
+	background-color: #f2dc9d;
+	opacity: 0.9;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.navbar-brand {
+	font-family: Syne;
+	font-weight: bolder;
+}
+
+h1 {
+	font-family: Syne;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: Syne;
+	font-weight: bold;
+}
+
+
+h3 {
+	font-family: Syne;
+	font-weight: bold;
+}
+
+h5 {
+	font-family: Syne;
+	font-weight: bold;
+}
+
+p {
+	font-family: Raleway;
+}
+
+
+ul {
+	font-family: Raleway;
+}
+
+ol {
+	font-family: Raleway;
+}
+
+.card-title {
+	font-family: Syne;
+	font-weight: bold;
+}
+
+.card-text {
+	font-family: Raleway;
+}
+
+th {
+	font-family: Syne;
+	font-weight: bold;
+}
+
+.btn {
+	background-color: #ff616b; 
+	color: white;
+	padding: 5px;
+	border-radius: 5px
+}
